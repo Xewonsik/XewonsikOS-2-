@@ -1,2 +1,2 @@
-# XewonsikOS-2-
-New xewonsikOS 2 
+# XewonsikOS-2
+This is the kernel and the OS
